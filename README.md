@@ -9,7 +9,7 @@ I'm currently working as a software engineer at [ASML](https://www.asml.com/) in
 
 > [!TIP]
 > We are seeking a Senior Platform Software Engineer to join our team at [ASML](https://www.asml.com/). Interested?
-> Check out the details [here](https://www.asml.com/en/careers/find-your-job/senior-platform-software-engineer-j00316812).
+> Please contact me on [LinkedIn](https://www.linkedin.com/in/koenkanters/).
 
 ## ⭐ GitHub Stats
 
