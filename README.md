@@ -7,10 +7,6 @@ I live in Helmond, The Netherlands. I'm 31 years old and a proud parent of one c
 ## 💼 Work
 I'm currently working as a software engineer at [ASML](https://www.asml.com/) in Veldhoven, The Netherlands.
 
-> [!TIP]
-> We are seeking a Senior Platform Software Engineer to join our team at [ASML](https://www.asml.com/). Interested?
-> Please contact me on [LinkedIn](https://www.linkedin.com/in/koenkanters/).
-
 ## ⭐ GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koenkk)](https://github.com/anuraghazra/github-readme-stats)
